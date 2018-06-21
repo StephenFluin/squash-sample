@@ -1,1 +1,1 @@
-# squash-sample
+# Sample update
